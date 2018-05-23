@@ -12,6 +12,7 @@
         <version>3.7.0</version>
         <configuration>
           <release>9</release>
+          <finalName>firstDevops</finalName>
         </configuration>
       </plugin>
       <plugin>
